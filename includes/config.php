@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
 define('DB_HOST','localhost');
-define('DB_USER','u685433548_lib');
-define('DB_PASS','mnc@markaz');
-define('DB_NAME','u685433548_lib');
+define('DB_USER','root');
+define('DB_PASS','');
+define('DB_NAME','fathahLib');
 // Establish database connection.
 try
 {
